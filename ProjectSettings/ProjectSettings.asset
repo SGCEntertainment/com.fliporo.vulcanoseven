@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: com.casinoslots.realmoney
+  productName: 777 Casino
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -237,12 +237,12 @@ PlayerSettings:
   clonedFromGUID: 776f21a8117c516478a8972136fc6e86
   templatePackageId: 
   templateDefaultScene: Assets/Scenes/SampleScene.unity
-  useCustomMainManifest: 0
+  useCustomMainManifest: 1
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
   useCustomLauncherGradleManifest: 0
   useCustomBaseGradleTemplate: 0
-  useCustomGradlePropertiesTemplate: 0
+  useCustomGradlePropertiesTemplate: 1
   useCustomProguardFile: 0
   AndroidTargetArchitectures: 3
   AndroidTargetDevices: 0
@@ -755,7 +755,13 @@ PlayerSettings:
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 0
+    Collab: 0
+    Game Performance: 0
+    Purchasing: 0
+    UDP: 0
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -769,10 +775,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 7e33f3de-625f-4e7c-a61e-1a07f5d600a0
+  cloudProjectId: 75094b5a-4f83-4c27-9501-e7d724a166b3
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: com.flipmorapps.ggbet
+  projectName: com.casinoslots.realmoney
   organizationId: alextraffic
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
