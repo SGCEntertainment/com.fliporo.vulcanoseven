@@ -442,20 +442,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 114549313509688038}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2208807727617682823}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: ShowPopUp
-        m_Mode: 2
-        m_Arguments:
-          m_ObjectArgument: {fileID: 2155796522365237169, guid: 46c30889acfc7aa48b0a4062bd93932d,
-            type: 3}
-          m_ObjectArgumentAssemblyTypeName: Mkey.PopUpsController, Assembly-CSharp
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &3109628859474713864
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -888,19 +875,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 114485986677624870}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 8362997237600974812}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: Click
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &2415264867444115074
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -926,7 +901,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a68196e209731f54a8e65e80bb166f57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ANDROID_RATE_URL: https://play.google.com/store/apps/
+  ANDROID_RATE_URL: 
   IOS_RATE_URL: 
 --- !u!1 &1936892323691160
 GameObject:

@@ -33,7 +33,7 @@ namespace Mkey
         /// <param name="scene"></param>
         public void LoadSceneByIndex(int scene)
         {
-            if (SL) SL.LoadScene(scene);
+            if (SL) SL.LoadScene(1);
         }
     }
 }
